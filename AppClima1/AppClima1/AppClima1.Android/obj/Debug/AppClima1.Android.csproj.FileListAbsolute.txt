@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Documents\Visual Studio 2017\Projects\AppClima1\AppClima1\AppClima1.Android\obj\Debug\AppClima1.Android.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2017\Projects\AppClima1\AppClima1\AppClima1.Android\obj\Debug\AppClima1.Android.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Visual Studio 2017\Projects\AppClima1\AppClima1\AppClima1.Android\obj\Debug\AppClima1.Droid.App.xaml.g.cs
+C:\Users\USUARIO\Documents\Visual Studio 2017\Projects\AppClima1\AppClima1\AppClima1.Android\obj\Debug\AppClima1.Droid.MainPage.xaml.g.cs
+C:\Users\USUARIO\Documents\Visual Studio 2017\Projects\AppClima1\AppClima1\AppClima1.Android\obj\Debug\AppClima1.Droid.Paginas.PaginaClima.xaml.g.cs
